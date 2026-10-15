@@ -1,0 +1,13 @@
+AURÉA CAFÉ — DEMO DE WEB INFORMATIVA
+
+1. Abre index.html en tu navegador.
+2. Para cambiar el nombre, textos y datos, edita index.html.
+3. Para cambiar colores, diseño y fotografías, edita style.css.
+4. script.js gestiona el menú móvil y las animaciones.
+5. Puedes subir los archivos directamente a GitHub y publicarlos en Netlify.
+
+IMPORTANTE:
+- AURÉA es un nombre de demostración.
+- Dirección, horarios, Instagram y carta son textos de ejemplo. Reemplázalos por los reales antes de publicar.
+- Las fotografías y fuentes se cargan desde servicios externos, por lo que se necesita internet para verlas.
+- No contiene backend ni reservas ni compras: es un sitio informativo.
